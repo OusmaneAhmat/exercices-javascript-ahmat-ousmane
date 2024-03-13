@@ -10,5 +10,5 @@ if (note < 12) {
     console.log("Très bien");
 } else if (note >= 18 && note <= 20) {
     console.log("Excellent");
-}
+} 
 
