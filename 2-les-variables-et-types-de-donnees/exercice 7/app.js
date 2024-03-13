@@ -1,15 +1,10 @@
-let age = prompt("Quel est ton age");
-let prix = prompt("combien coute une banane")
+let nombre1 = prompt("Donne moi le premier nombre :");
+let nombre2 = prompt("Entrez le deuxième nombre :");
 
+console.log(typeof nombre1)
 
+console.log(nombre1 + " x " + nombre2 + " = " + (nombre1 * nombre2));
+console.log(nombre1 + " - " + nombre2 + " = " + (nombre1 - nombre2));
+console.log(nombre1 + " + " + nombre2 + " = " + (nombre1 + nombre2));
+console.log(nombre1 + " / " + nombre2 + " = " + (nombre1 / nombre2));
 
-
-
-
-// Résultat attendu pour 10 et 2, dans la console :
-
-10 x 2 = 20
-10 - 2 = 8
-10 + 2 = 12
-10 / 2 = 5
-10 exposant 2 = 100

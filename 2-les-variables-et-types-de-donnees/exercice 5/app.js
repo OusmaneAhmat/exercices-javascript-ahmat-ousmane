@@ -8,6 +8,12 @@ let estContent = true;
 console.log(typeof estContent);
 
 
+console.log(`La variable "age" est de type: `);
+
+console.log(`La variable "genre" est de type : `)
+
+console.log(`La variable "estContent" est de type : `)
+
 
 
 
