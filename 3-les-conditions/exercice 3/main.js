@@ -8,3 +8,4 @@ if (motDePasse === code) {
 }  else{
     console.log("Accés interdit!.");
 }
+ 
